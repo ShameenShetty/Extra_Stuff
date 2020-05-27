@@ -23,4 +23,6 @@ For example,
 
 2) sum_dig_prod(0) ➞ 0
 
-3) sum_dig_prod(1, 2, 3, 4, 5, 6) ➞ 2
+3) sum_dig_prod(1, 2, 3, 4, 5, 6) ➞ 2  
+
+[Solution](https://github.com/ShameenShetty/Extra_Stuff/blob/master/Programming%20Problems/Product_of_Digits_of_Sum.py)
