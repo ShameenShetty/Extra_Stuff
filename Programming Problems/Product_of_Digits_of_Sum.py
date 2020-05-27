@@ -58,11 +58,6 @@ def get_Sum_or_Prod(*args):
     else:
         return prod
 
-# Our function sum_digits_prod that finds the product of digits until the answer is only 1 digit long
-# which we check by first getting the 'first sum' by passing all the arbitrary arguments, then
-# we check if the length of firstSum is 1. If it isn't, then we recurively pass it through our
-# sum_digits_prod() function until we get a result that is only 1 digit long.
-
 '''
     Function: sum_dig_prod
     
@@ -70,8 +65,10 @@ def get_Sum_or_Prod(*args):
     
     Returns: None
 
-    Description: This function takes in a arbitrary number of numbers as arguments,
-    adds them together, and returns the product of digits until the answer is only 1 digit long.
+    Description: Our function sum_digits_prod that finds the product of digits until the answer is only 1 digit long
+    which we check by first getting the 'first sum' by passing all the arbitrary arguments, then
+    we check if the length of firstSum is 1. If it isn't, then we recurively pass it through our
+    sum_digits_prod() function until we get a result that is only 1 digit long.
 '''
 def sum_dig_prod(*args):
     firstSum = get_Sum_or_Prod(*args)
