@@ -10,9 +10,9 @@ A problem from *edabit.com*, it asks to create a function that takes numbers as 
 
 For example, 
 sum_dig_prod(16, 28) ➞ 6
-# 16 + 28 = 44
-# 4 * 4 =  16
-# 1 * 6 = 6
+16 + 28 = 44
+4 * 4 =  16
+1 * 6 = 6
 
 sum_dig_prod(0) ➞ 0
 
