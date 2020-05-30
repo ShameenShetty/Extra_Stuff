@@ -1,5 +1,10 @@
 # Extra Stuff
-*[Interesting codes](https://github.com/ShameenShetty/Extra_Stuff/tree/master/Extra%20Stuff)*  
+*[Interesting codes](https://github.com/ShameenShetty/Extra_Stuff/tree/master/Extra%20Stuff)*   
+
+Interview Questions:
+* [One](https://github.com/MaximAbramchuck/awesome-interview-questions)
+* [Two](https://github.com/luceCoding/Programming-Interview-Questions-in-Python)
+* [Three](https://github.com/ramlaxman/Python-Interview-Questions)
 
 ## Code added to [Extra Stuff folder](https://github.com/ShameenShetty/Extra_Stuff/tree/master/Extra%20Stuff):  
 
